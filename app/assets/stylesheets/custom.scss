@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(77, 77, 77);
+    opacity: 1;
+
+}
+
+#conteneur {
+
+  display: flex;
+  justify-content: center;
+  margin-top: 150px
+
+
+
+}
+
+div#l1 {
+  background-color: rgb(102, 179, 255);
+  opacity: 0.8;
+  border: 0,5px rgb(89, 89, 89) solid;
+
+  p
+{
+    font-family: Arial, Verdana, sans-serif;
+    color: white;
+
+}
+
+
+}
+
+div#l2 {
+  background-color: white;
+  border: 0,5px rgb(89, 89, 89)  solid;
+
+h3{
+  color: black;
+  opacity: 1;
+}
+
+}
+
+
+ div#l3 {
+   background-color: rgb(179, 179, 179);
+   opacity: 1,5;
+
+
+ }
